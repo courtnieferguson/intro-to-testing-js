@@ -6,3 +6,7 @@ function helloWorld() {
 function sayHello() {
     return "Hello, Jane!";
 }
+
+function sayHello() {
+    return "";
+}
